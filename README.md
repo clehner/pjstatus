@@ -1,6 +1,9 @@
 # pjstatus
 **update the status display of a networked HP printer**
 
+![photo showing printer with custom status](https://cloud.githubusercontent.com/assets/95347/6493120/97746ea6-c286-11e4-912d-20097d9b16ef.jpg)
+
+
 ## Usage
 ```
 Usage: ./pjstatus hostname [status...]
